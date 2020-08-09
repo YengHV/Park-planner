@@ -14,6 +14,9 @@ Park Planner pulls state park and national park data and photos from the US Nati
 The application is designed to be responsive, so it will be functional and appealing on phone, tablet, and desktop screens.
 ## Built With
 Bootstrap CSS Framework
+
+<img width="1274" alt="parkplannerimg" src="https://user-images.githubusercontent.com/61241205/89743199-5b35e700-da66-11ea-89a5-33e4e88a4b64.png">
+
 ## Authors
 Anthony
 Ryan
